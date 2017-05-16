@@ -1,5 +1,9 @@
-/*:hover{color: blue;}*/
+/*
+:hover{color: blue;}
 p::first-letter{color:red;}
 p::first-line{font-size: 100px;}
 #div1>p{color: blue;}
-ul ~ div {color: yellow;}
+li + li {color: yellow;}
+li:first-child {color: orchid;}
+li:nth-child(2n+2) {color: orchid;}
+*/
