@@ -1,1 +1,5 @@
+/*:hover{color: blue;}*/
 p::first-letter{color:red;}
+p::first-line{font-size: 100px;}
+#div1>p{color: blue;}
+ul ~ div {color: yellow;}
