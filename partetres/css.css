@@ -1,0 +1,36 @@
+/*
+:hover{color: blue;}
+p::first-letter{color:red;}
+p::first-line{font-size: 100px;}
+#div1>p{color: blue;}
+li + li {color: yellow;}
+li:first-child {color: orchid;}
+li:nth-child(2n+2) {color: orchid;}
+*/
+/*#div1{position : absolute;
+top : 300px;
+left :50px;
+color: blueviolet;
+z-index: 0;
+}*/
+
+#div2{position : relative;
+top : 300px;
+left :10px;
+color: mediumvioletred;
+z-index :1;
+}
+
+.vanish{
+    
+   display  :none;
+}
+.centered{
+display  : table-cell;
+min-height  :500px;
+min-width:  200px;
+text-align:  center;
+vertical-align: middle;
+border :  1px solid #44ffff;
+
+}
