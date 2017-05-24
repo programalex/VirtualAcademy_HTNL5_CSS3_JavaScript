@@ -34,3 +34,15 @@ vertical-align: middle;
 border :  1px solid #44ffff;
 
 }
+
+
+#pic
+{
+width: 160px;
+transition: all 2s;
+}
+
+#pic:hover
+{
+transform: scale(2);
+}
