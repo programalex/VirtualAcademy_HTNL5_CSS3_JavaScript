@@ -17,3 +17,10 @@ function calcular (n1,n2,calculaproceso){
 function ejecutar (){
     setOutput (calcular(4,4,add));
 }
+
+function f (e) {
+var  frutas = ["a","b","c"];
+frutas.push("d");
+
+}
+
